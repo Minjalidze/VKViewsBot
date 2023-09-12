@@ -1,5 +1,5 @@
 Thanks for:
 
-2captcha-csharp
-NLog
-VkNet
+2captcha-csharp,
+NLog,
+VkNet.
