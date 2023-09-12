@@ -4,4 +4,3 @@
 <hr />
 <h3 align="center">Thanks For:</h3>
 <h3>1) 2captcha-csharp<br />2) NLog<br />3) VkNet</h3>
->>>>>>> Stashed changes
