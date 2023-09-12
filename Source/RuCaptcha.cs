@@ -5,7 +5,7 @@ namespace VKViewsBot
 {
     internal class RuCaptcha : VkNet.Utils.AntiCaptcha.ICaptchaSolver
     {
-		const string CaptchaCode = "***YOUR RuCaptcha CODE***"
+		const string CaptchaCode = "***YOUR RuCaptcha CODE***";
 		
         public string Solve(string url)
         {
