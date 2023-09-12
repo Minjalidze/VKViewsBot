@@ -1,5 +1,6 @@
-<a align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=2500&color=C0FFEE&multiline=true&width=700&height=100&lines=Bot+for+automatically+updating...;...the+current+number+of+views+on+a+VKontakte+post.;+++;Works+only+with+personal+pages." alt="Typing SVG" /></a>
-<div>
-<h2 align="center">Thanks For:</h2>
-<p><strong> 1) <a href="https://github.com/2captcha/2captcha-csharp">2captcha-csharp</a><br />2) <a href="https://github.com/NLog/NLog">NLog</a><br />3) <a href="https://github.com/vknet/vk">VkNet</a> </strong></p>
-</div>
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&amp;size=18&amp;duration=2500&amp;color=C0FFEE&amp;background=BC4CFF00&amp;center=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=100&amp;lines=Bot+for+automatically+updating...;...the+current+number+of+views+on+a+VKontakte+post.;+;Works+only+with+personal+pages." alt="Typing SVG" /></p>
+<hr />
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&amp;size=22&amp;duration=2500&amp;color=C0FFEE&amp;background=BC4CFF00&amp;center=true&amp;multiline=true&amp;repeat=false&amp;width=700&amp;height=30&amp;lines=Credits%3A" alt="Typing SVG" /></p>
+<p><a href="https://github.com/2captcha/2captcha-csharp" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&amp;size=18&amp;duration=2500&amp;color=C0FFEE&amp;background=BC4CFF00&amp;multiline=true&amp;repeat=false&amp;width=700&amp;height=30&amp;lines=1)+2captcha-csharp" alt="Typing SVG" /></a></p>
+<p><a href="https://github.com/NLog/NLog" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&amp;size=18&amp;duration=2500&amp;color=C0FFEE&amp;background=BC4CFF00&amp;multiline=true&amp;repeat=false&amp;width=700&amp;height=30&amp;lines=2)+NLog" alt="Typing SVG" /></a></p>
+<p><a href="https://github.com/vknet/vk" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&amp;size=18&amp;duration=2500&amp;color=C0FFEE&amp;background=BC4CFF00&amp;multiline=true&amp;repeat=false&amp;width=700&amp;height=30&amp;lines=3)+VkNet" alt="Typing SVG" /></a></p>
